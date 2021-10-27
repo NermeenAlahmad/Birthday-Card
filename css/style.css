@@ -1,0 +1,40 @@
+body{
+    background-color: #B284BE ;
+}
+.container{
+    background-color: #fff;
+    width: 30%;
+    /* height: 70vh; */
+    padding: 15px;
+    text-align: left;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 1px 7px 17px #0f0e0e;
+    border-radius: 15px;
+}
+
+.card img{
+    width: 50px;
+    float:left ;
+    border-radius: 50%;
+}
+
+.clear1{
+    margin-top: 100px;
+}
+
+.card-container p{
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.card-container{
+    margin-bottom: 60px;
+}
+
+button{
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
